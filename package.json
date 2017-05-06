@@ -1,0 +1,22 @@
+{
+  "name": "aws-api-dateway-lambda-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonykung06/aws-api-dateway-lambda-examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonykung06/aws-api-dateway-lambda-examples/issues"
+  },
+  "homepage": "https://github.com/tonykung06/aws-api-dateway-lambda-examples#readme",
+  "dependencies": {
+    "faker": "^4.1.0"
+  }
+}
